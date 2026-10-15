@@ -4,3 +4,4 @@ Project Name : p1
 <br>
 Author : Nishant Chandrawanshi
 <br>
+Project type : BETA
